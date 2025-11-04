@@ -72,4 +72,8 @@ help me reaching the maximum of my privacy
 497wfZpktGsQbzz8YUcaV8Uv48CcfQDJbEKpp6ThJKjkPaVC5MGkqvTCdS4yVreqQm8KPGFqzwUenHD4R1gKBY3bQ3nGULN
 ```
 
+<div align="center">
+
 ![Yow](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
